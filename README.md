@@ -6,4 +6,5 @@ The project is structured using an N-Tier Architecture to ensure modularity, sca
 1. Presentation Layer (API Controllers) – Handles HTTP requests and responses.
 2. Business Logic Layer (BLL) – Implements core application logic.
 3. Data Access Layer (DAL) – Manages database interactions.
+   
 The system uses a Relational Database Management System to store data and follows best practices for code structure, validation, and error handling.
