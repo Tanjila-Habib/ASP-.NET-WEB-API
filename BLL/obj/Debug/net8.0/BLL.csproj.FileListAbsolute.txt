@@ -1,0 +1,15 @@
+D:\9th Semester\Advanced programming with .net\Lab\3tierArchitecture\BLL\obj\Debug\net8.0\BLL.csproj.AssemblyReference.cache
+D:\9th Semester\Advanced programming with .net\Lab\3tierArchitecture\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\9th Semester\Advanced programming with .net\Lab\3tierArchitecture\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+D:\9th Semester\Advanced programming with .net\Lab\3tierArchitecture\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+D:\9th Semester\Advanced programming with .net\Lab\3tierArchitecture\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+D:\9th Semester\Advanced programming with .net\Lab\3tierArchitecture\BLL\bin\Debug\net8.0\BLL.deps.json
+D:\9th Semester\Advanced programming with .net\Lab\3tierArchitecture\BLL\bin\Debug\net8.0\BLL.dll
+D:\9th Semester\Advanced programming with .net\Lab\3tierArchitecture\BLL\bin\Debug\net8.0\BLL.pdb
+D:\9th Semester\Advanced programming with .net\Lab\3tierArchitecture\BLL\bin\Debug\net8.0\DAL.dll
+D:\9th Semester\Advanced programming with .net\Lab\3tierArchitecture\BLL\bin\Debug\net8.0\DAL.pdb
+D:\9th Semester\Advanced programming with .net\Lab\3tierArchitecture\BLL\obj\Debug\net8.0\BLL.csproj.Up2Date
+D:\9th Semester\Advanced programming with .net\Lab\3tierArchitecture\BLL\obj\Debug\net8.0\BLL.dll
+D:\9th Semester\Advanced programming with .net\Lab\3tierArchitecture\BLL\obj\Debug\net8.0\refint\BLL.dll
+D:\9th Semester\Advanced programming with .net\Lab\3tierArchitecture\BLL\obj\Debug\net8.0\BLL.pdb
+D:\9th Semester\Advanced programming with .net\Lab\3tierArchitecture\BLL\obj\Debug\net8.0\ref\BLL.dll
